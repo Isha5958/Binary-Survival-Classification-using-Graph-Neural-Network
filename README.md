@@ -1,0 +1,2 @@
+# Binary-Survival-Classification-using-Graph-Neural-Network
+This Jupyter Notebook builds a complete Graph Neural Network (GNN) pipeline to predict binary survival outcomes using multi-omics breast cancer data. It walks through the entire process from loading and visualizing the data to training, evaluating and interpreting the model organized into interactive, executable cells for smooth exploration.
